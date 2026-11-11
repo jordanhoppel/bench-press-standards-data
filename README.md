@@ -4,6 +4,8 @@ Percentile tables for the bench press, built from the public OpenPowerlifting da
 
 These numbers describe people who competed. They are not percentiles of the general gym-going population, who are on average weaker.
 
+Archived on Zenodo: https://doi.org/10.5281/zenodo.24142455 (this DOI always points to the latest version).
+
 Readable version with the tables: https://modernmensfitness.com/bench-press-standards/
 
 ## Files
@@ -51,4 +53,4 @@ The tables and scripts in this repository are released under CC0 1.0. You can co
 
 ## Cite
 
-See `CITATION.cff`, or: Hoppel, J. (2026). Raw bench press percentiles from OpenPowerlifting full-power meets, 2015 to 2026 [Data set]. https://modernmensfitness.com/bench-press-standards/
+See `CITATION.cff`, or: Hoppel, J. (2026). Raw bench press percentiles from OpenPowerlifting full-power meets, 2015 to 2026 [Data set]. Zenodo. https://doi.org/10.5281/zenodo.24142455

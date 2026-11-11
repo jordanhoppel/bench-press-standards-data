@@ -8,6 +8,7 @@ authors:
 version: "2026.11"
 date-released: "2026-11-11"
 license: CC0-1.0
+doi: 10.5281/zenodo.24142455
 url: "https://modernmensfitness.com/bench-press-standards/"
 abstract: "Percentile tables of the best raw bench press by IPF weight class, by bodyweight ratio and by age group, for adults in OpenPowerlifting full-power meets from 2015-01-01 to 2026-11-01."
 keywords:

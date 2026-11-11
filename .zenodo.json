@@ -1,0 +1,14 @@
+{
+  "title": "Raw bench press percentiles from OpenPowerlifting full-power meets, 2015 to 2026",
+  "upload_type": "dataset",
+  "description": "<p>Percentile tables (10th, 25th, 50th, 75th, 90th) of the best raw bench press for adults who entered full-power powerlifting meets between 2015-01-01 and 2026-11-01, built from the 2026-11-07 release of the public OpenPowerlifting database. Tables are given by sex and IPF weight class (kg and lb), as a multiple of bodyweight by sex, and as a multiple of bodyweight by sex and age group.</p><p>Counts: 199,726 men and 99,528 women (distinct names) from 842,890 qualifying entries. Cells with fewer than 200 lifters are dropped.</p><p>The people in the data chose to compete, so the percentiles describe competitors and not the general gym-going population. Names are used to match lifters across meets, so two lifters with the same name are merged. The filters, counts and rebuild scripts are included.</p>",
+  "creators": [{"name": "Hoppel, Jordan"}],
+  "license": "cc-zero",
+  "access_right": "open",
+  "keywords": ["bench press", "powerlifting", "strength standards", "OpenPowerlifting", "percentiles"],
+  "version": "2026.11",
+  "related_identifiers": [
+    {"identifier": "https://www.openpowerlifting.org", "relation": "isDerivedFrom", "scheme": "url"},
+    {"identifier": "https://modernmensfitness.com/bench-press-standards/", "relation": "isSupplementedBy", "scheme": "url"}
+  ]
+}
